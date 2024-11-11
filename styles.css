@@ -1,0 +1,21 @@
+/* Define o fundo da página como rosa bebê */
+body {
+    background-color: #FADADD; /* Cor rosa bebê */
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+}
+
+/* Centraliza e estiliza o vídeo */
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
